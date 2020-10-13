@@ -2,31 +2,29 @@
 #include "math.h"
 #include "code.h"
 
-using namespace std;
-
 int main()
 {
-    cout << "Loading Modules : Math" << endl;
+    std::cout << "Loading Modules : Math\n" << std::endl;
 
     int result = add(5, 10);
-    cout << result << endl;
+    std::cout << result << std::endl;
 
     int result2 = remove(50, 10);
-    cout << result2 << endl;
+    std::cout << result2 << std::endl;
 
     int result3 = divi(15, 10);
-    cout << result3 << endl;
+    std::cout << result3 << std::endl;
 
     int result4 = multi(5, 10);
-    cout << result4 << endl;
+    std::cout << result4 << std::endl;
 
     int carrerr = doubleNbr(10);
-    cout << carrerr << endl;
+    std::cout << carrerr << std::endl;
 
     int triple = tripleNbr(10);
-    cout << triple << endl;
+    std::cout << triple << std::endl;
 
-    cout << "\nLoading Modules : Code" << endl;
+    std::cout << "\nLoading Modules : Code\n" << std::endl;
 
     info();
     math();
