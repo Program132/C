@@ -1,10 +1,12 @@
 #include <iostream>
+#include <string>
 #include "math.h"
 #include "code.h"
+#include "file.h"
 
 int main()
 {
-    std::cout << "Loading Modules : Math\n" << std::endl;
+    std::cout << "Loading Module : Math\n" << std::endl;
 
     int result = add(5, 10);
     std::cout << result << std::endl;
@@ -24,10 +26,21 @@ int main()
     int triple = tripleNbr(10);
     std::cout << triple << std::endl;
 
-    std::cout << "\nLoading Modules : Code\n" << std::endl;
+    std::cout << "\nLoading Module : Code\n" << std::endl;
 
-    info();
+    info_code();
     math();
     code();
     learn_cpp();
+    var();
+    function();
+
+    std::cout << "\nLoading Module : File\n" << std::endl;
+
+    info_file();
+    std::string file = "C:/Users/franc/Desktop/cpp/test.txt";
+    open(file);
+
+    write(file, "Bonjour ca va ?");
+    read(file);
 }
