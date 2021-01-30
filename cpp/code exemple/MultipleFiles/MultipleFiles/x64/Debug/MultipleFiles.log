@@ -1,0 +1,5 @@
+﻿  MultipleFiles.cpp
+  send.cpp
+  Génération de code en cours...
+send.obj : error LNK2005: "void __cdecl printing(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?printing@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) déjà défini(e) dans MultipleFiles.obj
+C:\Users\franc\source\repos\MultipleFiles\x64\Debug\MultipleFiles.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
