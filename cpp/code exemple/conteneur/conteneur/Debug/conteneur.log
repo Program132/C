@@ -1,0 +1,6 @@
+﻿  conteneur.cpp
+C:\Users\franc\source\repos\conteneur\conteneur\conteneur.cpp(68,28): error C2373: 'tableau' : redéfinition ; modificateurs de type différents
+C:\Users\franc\source\repos\conteneur\conteneur\conteneur.cpp(41): message : voir la déclaration de 'tableau'
+C:\Users\franc\source\repos\conteneur\conteneur\conteneur.cpp(70,17): error C2119: 'it' : le type de 'auto' ne peut pas être déduit à partir d'un initialiseur vide
+C:\Users\franc\source\repos\conteneur\conteneur\conteneur.cpp(72,22): error C2100: indirection non conforme
+C:\Users\franc\source\repos\conteneur\conteneur\conteneur.cpp(72,19): error C2088: '<<' : non conforme pour class
