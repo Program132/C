@@ -110,6 +110,40 @@ int main()
 ```
 
 
+4.
+```c++
+#include <iostream>
+#include <string>
+
+
+int main()
+{
+	int b = 10;
+
+	if(b == 10)
+	{
+		goto bFound;
+	}
+
+bFound:
+	std::cout << "Hello, b found !" << std::endl;
+
+
+	std::string n = "Test";
+
+	if (n == "Test")
+	{
+		goto Test;
+	}
+
+Test:
+	std::cout << "Finish" << std::endl;
+
+	return 0;
+}
+```
+
+
 
 --------------------------------------------------
 
