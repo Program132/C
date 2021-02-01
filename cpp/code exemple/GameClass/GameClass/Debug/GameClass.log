@@ -1,0 +1,3 @@
+﻿  GameClass.cpp
+C:\Users\franc\source\repos\GameClass\GameClass\GameClass.cpp(40): warning C4715: 'Fighting::attack' : les chemins de contrôle ne retournent pas tous une valeur
+  GameClass.vcxproj -> C:\Users\franc\source\repos\GameClass\Debug\GameClass.exe
