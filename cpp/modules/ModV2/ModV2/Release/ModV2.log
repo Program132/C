@@ -1,0 +1,5 @@
+﻿  files.cpp
+  math.cpp
+  ModV2.cpp
+ModV2.obj : error LNK2001: symbole externe non résolu "void __cdecl writing(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?writing@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+C:\Users\franc\source\repos\ModV2\Release\ModV2.exe : fatal error LNK1120: 1 externes non résolus
