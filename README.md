@@ -19,6 +19,19 @@ Enjoy!
 
 
 
+## Informations
+
+Welcome to this category, I will send : 
+
+* project
+* code example
+* Modules
+
+
+
+--------------------------------------------------
+
+
 ## Code example 
 
 1.
@@ -95,20 +108,6 @@ int main()
 	return 0;
 }
 ```
-
-
-
---------------------------------------------------
-
-
-
-## Informations
-
-Welcome to this category, I will send : 
-
-* project
-* code example
-* Modules
 
 
 
