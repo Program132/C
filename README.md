@@ -145,7 +145,7 @@ Test:
 
 
 
-C# : soon ^^.
+C# : soon.
 
 
 
