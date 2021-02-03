@@ -1,0 +1,8 @@
+﻿  ModV3.cpp
+  str.cpp
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\franc\source\repos\ModV3\ModV3\math.cpp(57): warning C4715: 'N::math::power' : les chemins de contrôle ne retournent pas tous une valeur
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  ModV3.vcxproj -> C:\Users\franc\source\repos\ModV3\Release\ModV3.exe

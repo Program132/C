@@ -1,4 +1,6 @@
-﻿  files.cpp
-  ModV3.cpp
+﻿  ModV3.cpp
+C:\Users\franc\source\repos\ModV3\ModV3\ModV3.cpp(15,8): warning C4101: 'Str' : variable locale non référencée
+  str.cpp
   Génération de code en cours...
-  ModV3.vcxproj -> C:\Users\franc\source\repos\ModV3\Debug\ModV3.exe
+C:\Users\franc\source\repos\ModV3\ModV3\str.cpp(29): error C4716: 'N::st::replace' : doit retourner une valeur
+C:\Users\franc\source\repos\ModV3\ModV3\str.cpp(12): error C4716: 'N::st::clear' : doit retourner une valeur
